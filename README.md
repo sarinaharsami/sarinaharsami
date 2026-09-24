@@ -41,7 +41,6 @@ Focused on Blue Team operations, threat hunting, penetration testing, and securi
 <img src="https://img.shields.io/badge/WSTG-ffafd0?style=flat-square">
 <img src="https://img.shields.io/badge/OWASP%20Top%2010-ffafd0?style=flat-square">
 <img src="https://img.shields.io/badge/Burp%20Suite-ffafd0?style=flat-square&logo=burpsuite&logoColor=111111">
-<img src="https://img.shields.io/badge/Nmap-ffafd0?style=flat-square">
 <img src="https://img.shields.io/badge/Python%20Scripting-ffafd0?style=flat-square&logo=python&logoColor=111111">
 <img src="https://img.shields.io/badge/Windows%20Application-ffafd0?style=flat-square">
 <img src="https://img.shields.io/badge/Vulnerability%20Assessment-ffafd0?style=flat-square">
@@ -63,7 +62,11 @@ Focused on Blue Team operations, threat hunting, penetration testing, and securi
 <img src="https://img.shields.io/badge/Docker-b8e3ff?style=for-the-badge&logo=docker&logoColor=111111">
 <img src="https://img.shields.io/badge/Python-b8e3ff?style=for-the-badge&logo=python&logoColor=111111">
 <img src="https://img.shields.io/badge/Burp%20Suite-ffafd0?style=for-the-badge&logo=burpsuite&logoColor=111111">
-<img src="https://img.shields.io/badge/Nmap-ffafd0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-ffafd0?style=for-the-badge">
+<img src="https://img.shields.io/badge/%20Sysinternals%20Tools-ffafd0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sysmon-ffafd0?style=for-the-badge">
+<img src="https://img.shields.io/badge/EDR-ffafd0?style=for-the-badge">
+<img src="https://img.shields.io/badge/SIEM-ffafd0?style=for-the-badge">
 <img src="https://img.shields.io/badge/OWASP-ffafd0?style=for-the-badge&logo=owasp&logoColor=111111">
 
 </p>
